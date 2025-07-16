@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a seasoned PHP developer with over 9 years of experience specializing in the Laravel framework, dedicated to building scalable and high-performance web applications within the Information Technology sector. My expertise spans API integration, system architecture, and writing clean, maintainable code that adheres to industry best practices. I am committed to delivering innovative and efficient solutions that drive business growth and operational excellence. Continuously evolving with the latest technologies, I thrive in dynamic environments where I can contribute to the development of secure and robust IT systems.
+I am a PHP developer with over 10 years of experience specializing in the Laravel framework, dedicated to building scalable and high-performance web applications within the Information Technology sector. My expertise spans API integration, system architecture, and writing clean, maintainable code that adheres to industry best practices. I am committed to delivering innovative and efficient solutions that drive business growth and operational excellence. Continuously evolving with the latest technologies, I thrive in dynamic environments where I can contribute to the development of secure and robust IT systems.
 
 ---
 
