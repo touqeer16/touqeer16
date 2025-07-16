@@ -45,18 +45,19 @@ I am a seasoned PHP developer with over 9 years of experience specializing in th
 
 ![Touqeer Fazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=touqeer16&show_icons=true&theme=radical)
 
-## 🛠️ Most Languages Used
+## 🛠️ Top Languages Used
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=radical)
 
-## 🛠️ Top Languages Used
+## 🛠️ Top Languages By Repo
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&langs_count=8&theme=radical)
+## Top Language by Repository
 
-
-![Languages](https://img.shields.io/github/languages/top/touqeer16/pos-system)
-
-![Languages](https://api.github.com/repos/touqeer16/pos-system/languages)
+| Repository         | Top Language |
+|--------------------|--------------|
+| repo-name-1        | PHP          |
+| repo-name-2        | JavaScript   |
+| repo-name-3        | Laravel      |
 
 
 
