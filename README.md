@@ -51,10 +51,9 @@ I am a seasoned PHP developer with over 9 years of experience specializing in th
 
 ## 🛠️ Top Languages By Repo
 
-## Top Languages by Repository
 
-![Top Languages](./top_languages.png)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact)
 
 
 
