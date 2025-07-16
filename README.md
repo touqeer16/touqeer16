@@ -51,14 +51,9 @@ I am a seasoned PHP developer with over 9 years of experience specializing in th
 
 ## 🛠️ Top Languages By Repo
 
-## Top Language by Repository
+## Top Languages by Repository
 
-| Repository         | Top Language |
-|--------------------|--------------|
-| repo-name-1        | PHP          |
-| repo-name-2        | JavaScript   |
-| repo-name-3        | Laravel      |
-
+![Top Languages](./top_languages.png)
 
 
 
