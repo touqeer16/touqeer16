@@ -47,7 +47,7 @@ I am a seasoned PHP developer with over 9 years of experience specializing in th
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=radical)
 
-![Languages](https://img.shields.io/github/languages/top/touqeer16/REPO_NAME)
+![Languages](https://img.shields.io/github/languages/top/touqeer16/touqeer16)
 
 
 
