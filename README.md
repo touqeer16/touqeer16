@@ -17,8 +17,8 @@ I am a seasoned PHP developer with over 9 years of experience specializing in th
 
 - **Backend:** PHP (Laravel), CodeIgniter, REST APIs  
 - **Frontend:** React.js, Angular, Vue.js, HTML5, CSS3, JavaScript (ES6+)  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Tools & Platforms:** Git, Docker, AWS, CI/CD, Agile & Scrum  
+- **Databases:** MySQL, PostgreSQL, NoSql  
+- **Tools & Platforms:** Git Agile & Scrum  
 - **Others:** API Integration, Payment Gateway, Testing (PHPUnit, Jest)
 
 ---
