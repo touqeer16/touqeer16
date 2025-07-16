@@ -1,12 +1,9 @@
 ★彡 Touqeer ✦ Fazal 彡★
 
+### 👨‍💻 Software Engineer | Team Lead | PHP Engineer
+
 ![Typing effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00aaff&width=450&lines=Hi,+I'm+Touqeer+Fazal;Software+Developer+%26+Team+Lead)
 
-
-
-# Hi there, I'm Touqeer Fazal 👋
-
-### 👨‍💻 Software Developer | Team Lead | Problem Solver
 
 ---
 
