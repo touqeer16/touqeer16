@@ -1,7 +1,5 @@
+★彡 Touqeer ✦ Fazal 彡★
 
-
-
-             T O U Q E E R   F A Z A L
 
 
 ## 💼 About Me
