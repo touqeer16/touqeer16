@@ -43,9 +43,9 @@ I am a seasoned PHP developer with over 9 years of experience specializing in th
 
 ## 📈 GitHub Stats
 
-![Touqeer Fazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=touqeerfazal&show_icons=true&theme=radical)
+![Touqeer Fazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=touqeer16&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeerfazal&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=radical)
 
 
 
