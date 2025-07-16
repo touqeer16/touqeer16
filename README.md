@@ -27,15 +27,15 @@ I am a seasoned PHP developer with over 9 years of experience specializing in th
 
 | Project Name          | Description                                  | Tech Stack                          | Repository Link                     |
 |-----------------------|----------------------------------------------|-----------------------------------|-----------------------------------|
-| Real Estate Platform  | Full-stack real estate app                    | CodeIgniter, Angular, MySQL       | [github.com/touqeerfazal/real-estate](https://github.com/touqeerfazal/real-estate)  |
-| POS System           | Point-of-sale system for retail businesses   | Laravel, React.js, MySQL           | [github.com/touqeerfazal/pos-system](https://github.com/touqeerfazal/pos-system)    |
-| E-commerce Website   | WordPress-based online store with custom plugins | WordPress, PHP, WooCommerce      | [github.com/touqeerfazal/ecommerce](https://github.com/touqeerfazal/ecommerce)      |
+| Real Estate Platform  | Full-stack real estate app                    | CodeIgniter, Angular, MySQL       | [github.com/touqeer16/real-estate](https://github.com/touqeerfazal/real-estate)  |
+| POS System           | Point-of-sale system for retail businesses   | Laravel, React.js, MySQL           | [github.com/touqeer16/pos-system](https://github.com/touqeerfazal/pos-system)    |
+| E-commerce Website   | WordPress-based online store with custom plugins | WordPress, PHP, WooCommerce      | [github.com/touqeer16/ecommerce](https://github.com/touqeerfazal/ecommerce)      |
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/touqeer-fazal)  
+- [LinkedIn](https://linkedin.com/in/touqeerfazal)  
 - [Email](mailto:touqeerfazal1992@example.com)  
 - [GitHub](https://github.com/touqeer16)
 
@@ -46,6 +46,10 @@ I am a seasoned PHP developer with over 9 years of experience specializing in th
 ![Touqeer Fazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=touqeer16&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=radical)
+
+![Languages](https://img.shields.io/github/languages/top/touqeer16/REPO_NAME)
+
+
 
 
 
