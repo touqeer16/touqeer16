@@ -1,27 +1,63 @@
 ★彡 Touqeer ✦ Fazal 彡★
 
+![Typing effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00aaff&width=450&lines=Hi,+I'm+Touqeer+Fazal;Software+Developer+%26+Team+Lead)
 
 
-## 💼 About Me
 
-- 👨‍💻 Software Engineer | Backend Developer | Full-Stack Enthusiast  
-- 🌐 Skilled in PHP, Laravel, React, CodeIgniter, MySQL  
-- 🧠 Passionate about building scalable systems and solving real-world problems  
-- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/touqeerfazal)
--- 👯 I’m looking to collaborate on some cool open source projects in TypeScript, Laravel, NestJS
-📫 You can reach me at touqeerfazal1992@gmail.com
+# Hi there, I'm Touqeer Fazal 👋
+
+### 👨‍💻 Software Developer | Team Lead | Problem Solver
+
 ---
 
+## About Me
 
-- I write my backend APIs in NestJS and frontend in ReactJS
-- I run PostgreSQL and MongoDB databases on docker
-- To host my code I use GitHub
-- To build docker images I use GitHub Actions
-- To host docker images I use GitHub Container Registry
-- For testing I use Netlify to deploy ReactJS applications
-- I use Amazon EC2, DigitalOcean Droplets to run my production servers
-- I run Ubuntu Server on production VMs
-- I use Nginx as web-server as well as reverse-proxy
-- I host my domains on GoDaddy
-- I use lestencrypt to obtain SSL certificates
-- I use Minikube and Kind to play with Kubernetes
+I am a seasoned PHP developer with over 9 years of experience specializing in the Laravel framework, dedicated to building scalable and high-performance web applications within the Information Technology sector. My expertise spans API integration, system architecture, and writing clean, maintainable code that adheres to industry best practices. I am committed to delivering innovative and efficient solutions that drive business growth and operational excellence. Continuously evolving with the latest technologies, I thrive in dynamic environments where I can contribute to the development of secure and robust IT systems.
+
+---
+
+## 🚀 Skills & Technologies
+
+- **Backend:** PHP (Laravel), CodeIgniter, REST APIs  
+- **Frontend:** React.js, Angular, Vue.js, HTML5, CSS3, JavaScript (ES6+)  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools & Platforms:** Git, Docker, AWS, CI/CD, Agile & Scrum  
+- **Others:** API Integration, Payment Gateway, Testing (PHPUnit, Jest)
+
+---
+
+## 💼 Projects
+
+| Project Name          | Description                                  | Tech Stack                          | Repository Link                     |
+|-----------------------|----------------------------------------------|-----------------------------------|-----------------------------------|
+| Real Estate Platform  | Full-stack real estate app                    | CodeIgniter, Angular, MySQL       | [github.com/touqeerfazal/real-estate](https://github.com/touqeerfazal/real-estate)  |
+| POS System           | Point-of-sale system for retail businesses   | Laravel, React.js, MySQL           | [github.com/touqeerfazal/pos-system](https://github.com/touqeerfazal/pos-system)    |
+| E-commerce Website   | WordPress-based online store with custom plugins | WordPress, PHP, WooCommerce      | [github.com/touqeerfazal/ecommerce](https://github.com/touqeerfazal/ecommerce)      |
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/touqeer-fazal)  
+- [Email](mailto:touqeerfazal1992@example.com)  
+- [GitHub](https://github.com/touqeer16)
+
+---
+
+## 📈 GitHub Stats
+
+![Touqeer Fazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=touqeerfazal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeerfazal&layout=compact&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
