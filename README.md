@@ -49,7 +49,9 @@ I am a PHP developer with over 10 years of experience specializing in the Larave
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=radical)
 
+## Lamguages used per reppo
 
+![Languages Per Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16)
 
 
 
