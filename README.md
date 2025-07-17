@@ -1,6 +1,6 @@
-★彡 Touqeer ✦ Fazal 彡★
 
-<h1 align="center">Hi 👋, I'm Touqeer Fazal</h1>
+
+<h1 align="center">★彡 Touqeer ✦ Fazal 彡★</h1>
 <h3 align="center">Experienced PHP/Laravel Developer | Full Stack Engineer</h3>
 
 <p align="center">
@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on several **management systems**, **eCommerce**, and **healthcare platforms**  
-- 👨‍💻 Most of my work is on **Laravel**, **ReactJS**, and **CodeIgniter**  
+- 🔭 I’m currently working on several **pos systems**, **management systems**, **eCommerce**, and **healthcare platforms**  
+- 👨‍💻 Most of my work is on **Laravel**, **ReactJS**,**AngularJs**, and **CodeIgniter**  
 - 🧠 I’m always learning new technologies like **Next.js**, **TypeScript**, and **API integrations**  
-- 📫 Reach me at: **touqeerfazal@gmail.com**
+- 📫 Reach me at: **touqeerfazal1992@gmail.com**
 
 ---
 
@@ -51,16 +51,11 @@
 
 ---
 
-## 📫 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/touqeerfazal)  
-- [Email](mailto:touqeerfazal1992@example.com)  
-- [GitHub](https://github.com/touqeer16)
 
 ## 🔗 Let's Connect
 
 <p align="left">
-  <a href="mailto:touqeerfazal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:touqeerfazal1992@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/touqeerfazal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/touqeer16"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
@@ -78,25 +73,6 @@
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-![Touqeer Fazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=touqeer16&show_icons=true&theme=radical)
-
-## 🛠️ Top Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=radical)
-
-
-## 🧠 Top Languages Used per reppo
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&hide_progress=true&theme=tokyonight)
-
-
-
-
-
-### New
 
 
 
