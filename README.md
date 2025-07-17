@@ -69,6 +69,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&langs_count=5&theme=dark" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touqeer16&amp;theme=dracula" />
 </p>
 
@@ -79,21 +83,17 @@
 
 ---
 
-
-
-## 🧠 Top Languages by Repository
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=light)
-
-
-![Top Langs Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&langs_count=5&theme=dark)
-
-
 ### 📊 Languages across All Repos
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=bar&langs_count=6&theme=light)
 
 
+
+
+---
+
+
+## 🧠 Top Languages by Repository
 
 
 | Repository        | Top Language |
