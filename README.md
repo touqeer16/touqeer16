@@ -86,17 +86,22 @@
 ### 📊 Languages across All Repos
 
 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/touqeer16/pms?label=pms&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/touqeer16/ecommerce?label=ecommerce&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/touqeer16/real-estate?label=real-estate&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/touqeer16/pos-system?label=pos-system&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/touqeer16/saas-platform?label=saas-platform&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/touqeer16/health-care?label=health-care&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/touqeer16/validation-system?label=validation-system&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/touqeer16/api-integration?label=api-integration&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/touqeer16/payment-gateway?label=payment-gateway&style=for-the-badge" />
-</p>
+<div align="center">
+
+| Repository     | Language Stats |
+|----------------|----------------|
+| [pms](https://github.com/touqeer16/pms) | ![pms Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=pms&layout=compact&langs_count=5) |
+| [ecommerce](https://github.com/touqeer16/ecommerce) | ![ecommerce Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=ecommerce&layout=compact&langs_count=5) |
+| [real-estate](https://github.com/touqeer16/real-estate) | ![real-estate Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=real-estate&layout=compact&langs_count=5) |
+| [pos-system](https://github.com/touqeer16/pos-system) | ![pos-system Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=pos-system&layout=compact&langs_count=5) |
+| [saas-platform](https://github.com/touqeer16/saas-platform) | ![saas-platform Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=saas-platform&layout=compact&langs_count=5) |
+| [health-care](https://github.com/touqeer16/health-care) | ![health-care Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=health-care&layout=compact&langs_count=5) |
+| [validation-system](https://github.com/touqeer16/validation-system) | ![validation-system Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=validation-system&layout=compact&langs_count=5) |
+| [api-integration](https://github.com/touqeer16/api-integration) | ![api-integration Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=api-integration&layout=compact&langs_count=5) |
+| [payment-gateway](https://github.com/touqeer16/payment-gateway) | ![payment-gateway Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=payment-gateway&layout=compact&langs_count=5) |
+
+</div>
+
 
 ---
 
