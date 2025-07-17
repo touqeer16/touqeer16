@@ -68,9 +68,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&theme=tokyonight" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touqeer16&amp;theme=dracula" />
