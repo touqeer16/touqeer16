@@ -89,8 +89,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/touqeer16/pos-system">pos-system</a>
+  <a href="https://github.com/touqeer16/pos-system">pos-system
   <img src="https://img.shields.io/github/languages/top/touqeer16/pos-system" />
+  </a>
 </p>
 
 
