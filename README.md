@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=bar&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -85,15 +85,7 @@
 
 ### 📊 Languages across All Repos
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=bar&langs_count=6&theme=light)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=default&langs_count=8)
-
-
-
-![Top Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&theme=default)
+![Top Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=bar&theme=dark)
 
 ---
 
