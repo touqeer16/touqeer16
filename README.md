@@ -84,9 +84,7 @@
 ---
 
 ### 📊 Languages across All Repos
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F8F8&center=true&vCenter=true&width=700&height=50&lines=🎯+Top+Languages+Per+Repository" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/touqeer16/pms?label=pms&style=for-the-badge" />
@@ -99,6 +97,24 @@
   <img src="https://img.shields.io/github/languages/top/touqeer16/api-integration?label=api-integration&style=for-the-badge" />
   <img src="https://img.shields.io/github/languages/top/touqeer16/payment-gateway?label=payment-gateway&style=for-the-badge" />
 </p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=700&height=50&lines=📊+GitHub+Repositories+Language+Usage+Overview" alt="Typing SVG" />
+</p>
+
+| Repository | Language % Bar |
+|------------|----------------|
+| **pms** | ![Lang](https://github.com/touqeer16/pms/blob/main/languages.svg) |
+| **ecommerce** | ![Lang](https://github.com/touqeer16/ecommerce/blob/main/languages.svg) |
+| **real-estate** | ![Lang](https://github.com/touqeer16/real-estate/blob/main/languages.svg) |
+| **pos-system** | ![Lang](https://github.com/touqeer16/pos-system/blob/main/languages.svg) |
+| **saas-platform** | ![Lang](https://github.com/touqeer16/saas-platform/blob/main/languages.svg) |
+| **health-care** | ![Lang](https://github.com/touqeer16/health-care/blob/main/languages.svg) |
+| **validation-system** | ![Lang](https://github.com/touqeer16/validation-system/blob/main/languages.svg) |
+| **api-integration** | ![Lang](https://github.com/touqeer16/api-integration/blob/main/languages.svg) |
+| **payment-gateway** | ![Lang](https://github.com/touqeer16/payment-gateway/blob/main/languages.svg) |
+
 
 ---
 
