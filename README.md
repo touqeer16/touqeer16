@@ -79,6 +79,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/touqeer16/pms" />
+</p>
+
 ## 🧠 Top Languages by Repository
 
 | Repository        | Top Language |
