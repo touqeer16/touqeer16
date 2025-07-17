@@ -81,15 +81,15 @@
 
 ## 🧠 Top Languages by Repository
 
-                        | Repository        | Top Language |
-                        |------------------|--------------|
-                        | [pms](https://github.com/touqeer16/management-system) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/pms) |
-                        | [pos-system](https://github.com/touqeer16/pos-system)           | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/pos-system) |
-                        | [ecommerce-website](https://github.com/touqeer16/ecommerce-website) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/ecommerce-website) |
-                        | [real-estate-platform](https://github.com/touqeer16/real-estate-platform) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/real-estate-platform) |
-                        | [validation-system](https://github.com/touqeer16/validation-system) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/validation-system) |
-                        | [saas-platform](https://github.com/touqeer16/saas-platform) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/saas-platform) |
-                        | [api-integration](https://github.com/touqeer16/api-integration) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/api-integration) |
+| Repository        | Top Language |
+|------------------|--------------|
+| [pms](https://github.com/touqeer16/management-system) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/pms) |
+| [pos-system](https://github.com/touqeer16/pos-system)           | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/pos-system) |
+| [ecommerce-website](https://github.com/touqeer16/ecommerce-website) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/ecommerce-website) |
+| [real-estate-platform](https://github.com/touqeer16/real-estate-platform) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/real-estate-platform) |
+| [validation-system](https://github.com/touqeer16/validation-system) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/validation-system) |
+| [saas-platform](https://github.com/touqeer16/saas-platform) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/saas-platform) |
+| [api-integration](https://github.com/touqeer16/api-integration) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/api-integration) |
 
 
 
