@@ -72,8 +72,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=touqeer16&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false" />
 </p>
 
-<p class="text-center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touqeer16&theme=dracula" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touqeer16&amp;theme=dracula" />
 </p>
 
 <p align="center">
