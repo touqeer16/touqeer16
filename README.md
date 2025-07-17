@@ -89,6 +89,11 @@
 
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=default&langs_count=8)
+
+
+
+![Top Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&theme=default)
 
 ---
 
