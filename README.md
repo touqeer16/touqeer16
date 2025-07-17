@@ -85,22 +85,79 @@
 
 ### 📊 Languages across All Repos
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ff4500&center=true&vCenter=true&width=700&height=60&lines=🚀+GitHub+Language+Stats+Per+Repo" alt="Typing SVG" />
+</p>
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
 
-| Repository     | Language Stats |
-|----------------|----------------|
-| [pms](https://github.com/touqeer16/pms) | ![pms Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=pms&layout=compact&langs_count=5) |
-| [ecommerce](https://github.com/touqeer16/ecommerce) | ![ecommerce Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=ecommerce&layout=compact&langs_count=5) |
-| [real-estate](https://github.com/touqeer16/real-estate) | ![real-estate Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=real-estate&layout=compact&langs_count=5) |
-| [pos-system](https://github.com/touqeer16/pos-system) | ![pos-system Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=pos-system&layout=compact&langs_count=5) |
-| [saas-platform](https://github.com/touqeer16/saas-platform) | ![saas-platform Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=saas-platform&layout=compact&langs_count=5) |
-| [health-care](https://github.com/touqeer16/health-care) | ![health-care Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=health-care&layout=compact&langs_count=5) |
-| [validation-system](https://github.com/touqeer16/validation-system) | ![validation-system Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=validation-system&layout=compact&langs_count=5) |
-| [api-integration](https://github.com/touqeer16/api-integration) | ![api-integration Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=api-integration&layout=compact&langs_count=5) |
-| [payment-gateway](https://github.com/touqeer16/payment-gateway) | ![payment-gateway Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=payment-gateway&layout=pie&langs_count=5) |
+<table>
+  <thead>
+    <tr style="font-weight:bold; font-size:18px; color:#ff4500;">
+      <th style="padding: 10px 15px;">Repository</th>
+      <th style="padding: 10px 15px;">Language Stats</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px 15px;"><a href="https://github.com/touqeer16/pms" style="color:#ff4500; text-decoration:none;">pms</a></td>
+      <td style="padding: 8px 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=pms&layout=compact&langs_count=5" alt="pms languages" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 15px;"><a href="https://github.com/touqeer16/ecommerce" style="color:#ff4500; text-decoration:none;">ecommerce</a></td>
+      <td style="padding: 8px 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=ecommerce&layout=compact&langs_count=5" alt="ecommerce languages" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 15px;"><a href="https://github.com/touqeer16/real-estate" style="color:#ff4500; text-decoration:none;">real-estate</a></td>
+      <td style="padding: 8px 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=real-estate&layout=compact&langs_count=5" alt="real-estate languages" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 15px;"><a href="https://github.com/touqeer16/pos-system" style="color:#ff4500; text-decoration:none;">pos-system</a></td>
+      <td style="padding: 8px 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=pos-system&layout=compact&langs_count=5" alt="pos-system languages" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 15px;"><a href="https://github.com/touqeer16/saas-platform" style="color:#ff4500; text-decoration:none;">saas-platform</a></td>
+      <td style="padding: 8px 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=saas-platform&layout=compact&langs_count=5" alt="saas-platform languages" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 15px;"><a href="https://github.com/touqeer16/health-care" style="color:#ff4500; text-decoration:none;">health-care</a></td>
+      <td style="padding: 8px 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=health-care&layout=compact&langs_count=5" alt="health-care languages" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 15px;"><a href="https://github.com/touqeer16/validation-system" style="color:#ff4500; text-decoration:none;">validation-system</a></td>
+      <td style="padding: 8px 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=validation-system&layout=compact&langs_count=5" alt="validation-system languages" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 15px;"><a href="https://github.com/touqeer16/api-integration" style="color:#ff4500; text-decoration:none;">api-integration</a></td>
+      <td style="padding: 8px 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=api-integration&layout=compact&langs_count=5" alt="api-integration languages" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 15px;"><a href="https://github.com/touqeer16/payment-gateway" style="color:#ff4500; text-decoration:none;">payment-gateway</a></td>
+      <td style="padding: 8px 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=payment-gateway&layout=compact&langs_count=5" alt="payment-gateway languages" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
 
 
 ---
