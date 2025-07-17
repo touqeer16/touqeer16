@@ -62,19 +62,21 @@
 
 ---
 
-## 📊 GitHub Stats & Top Languages
+## 📊 Top Languages & Languages Used Per Repo & GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&hide_progress=false&theme=tokyonight" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touqeer16&amp;theme=dracula" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=touqeer16&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touqeer16&amp;theme=dracula" />
-</p>
 
 
 
