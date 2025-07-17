@@ -68,9 +68,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=tokyonight&langs_count=12" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&theme=tokyonight&langs_count=10" />
-</p>
+</p> -->
 
 
 <p align="center">
