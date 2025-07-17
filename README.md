@@ -98,7 +98,7 @@
 | [health-care](https://github.com/touqeer16/health-care) | ![health-care Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=health-care&layout=compact&langs_count=5) |
 | [validation-system](https://github.com/touqeer16/validation-system) | ![validation-system Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=validation-system&layout=compact&langs_count=5) |
 | [api-integration](https://github.com/touqeer16/api-integration) | ![api-integration Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=api-integration&layout=compact&langs_count=5) |
-| [payment-gateway](https://github.com/touqeer16/payment-gateway) | ![payment-gateway Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=payment-gateway&layout=compact&langs_count=5) |
+| [payment-gateway](https://github.com/touqeer16/payment-gateway) | ![payment-gateway Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&repo=payment-gateway&layout=pie&langs_count=5) |
 
 </div>
 
@@ -108,7 +108,9 @@
 ## 🧠 Top Languages by Repository
 
 
-| Repository        | Top Language |
+<div align="center">
+
+| Repository     | Language Stats |
 |------------------|--------------|
 | [pms](https://github.com/touqeer16/pms) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/pms) |
 | [pos-system](https://github.com/touqeer16/pos-system)           | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/pos-system) |
@@ -119,7 +121,7 @@
 | [api-integration](https://github.com/touqeer16/api-integration) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/api-integration) |
 | [api-integration](https://github.com/touqeer16/management-system) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/management-system) |
 
-
+</div>
 
 
 
