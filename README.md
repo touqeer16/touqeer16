@@ -92,7 +92,7 @@
 |------------------|--------------|
 | [pms](https://github.com/touqeer16/pms) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/pms) |
 | [pos-system](https://github.com/touqeer16/pos-system)           | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/pos-system) |
-| [management-system](https://github.com/touqeer16/management-system) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/management-system) |
+| [react-project](https://github.com/touqeer16/react-project) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/react-project) |
 | [ecommerce-website](https://github.com/touqeer16/ecommerce-website) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/ecommerce-website) |
 | [real-estate-platform](https://github.com/touqeer16/real-estate-platform) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/real-estate-platform) |
 | [validation-system](https://github.com/touqeer16/validation-system) | ![Top Language](https://img.shields.io/github/languages/top/touqeer16/validation-system) |
