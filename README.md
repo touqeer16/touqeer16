@@ -83,16 +83,16 @@
 
 ## 🧠 Top Languages by Repository
 
-<p align="center">
-  <a href="https://github.com/touqeer16/pms">pms</a>
-  <img src="https://img.shields.io/github/languages/top/touqeer16/pms&amp;theme=dracula" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=light)
 
-<p align="center">
-  <a href="https://github.com/touqeer16/pos-system">pos-system
-  <img src="https://img.shields.io/github/languages/top/touqeer16/pos-system&amp;theme=dracula" />
-  </a>
-</p>
+
+![Top Langs Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&langs_count=5&theme=dark)
+
+
+### 📊 Languages across All Repos
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=bar&langs_count=6&theme=light)
+
 
 
 
