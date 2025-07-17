@@ -85,7 +85,17 @@
 
 ### 📊 Languages across All Repos
 
-![Top Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&theme=dark)
+## 📊 GitHub Language Usage (Graphical View)
+
+> **Top programming languages used across public repositories by [@touqeer16](https://github.com/touqeer16)**
+
+### 🔹 Compact Bar Chart
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=radical&langs_count=8)](https://github.com/touqeer16)
+
+### 🔸 Pie Chart View
+
+[![Top Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&theme=tokyonight&langs_count=8)](https://github.com/touqeer16)
 
 ---
 
