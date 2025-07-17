@@ -58,6 +58,58 @@ I am a PHP developer with over 10 years of experience specializing in the Larave
 
 
 
+### New
+
+<h1 align="center">Hi 👋, I'm Touqeer Fazal</h1>
+<h3 align="center">Experienced PHP/Laravel Developer | Full Stack Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Web+Apps;Laravel+%7C+React+%7C+CodeIgniter+%7C+API+Integration;Clean+Code+%7C+9%2B+Years+Experience&center=true&width=600&height=45&color=0A66C2&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on several **management systems**, **eCommerce**, and **healthcare platforms**  
+- 👨‍💻 Most of my work is on **Laravel**, **ReactJS**, and **CodeIgniter**  
+- 🧠 I’m always learning new technologies like **Next.js**, **TypeScript**, and **API integrations**  
+- 📫 Reach me at: **touqeerfazal@gmail.com**
+
+---
+
+## 💻 Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&hide_progress=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=touqeer16&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="left">
+  <a href="mailto:touqeerfazal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/touqeerfazal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/touqeer16"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
 
 
 
