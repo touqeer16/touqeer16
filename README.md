@@ -77,6 +77,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=touqeer16&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false" />
 </p>
 
+![language](https://img.shields.io/github/languages/top/touqeer16/pos-system)
+
+
 
 
 
