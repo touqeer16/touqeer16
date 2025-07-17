@@ -4,7 +4,7 @@
 <h3 align="center">PHP Software Engineer | Laravel Developer | Full Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Web+Apps;Laravel+%7C+React+%7C+CodeIgniter+%7C+API+Integration;Clean+Code+%7C+9%2B+Years+Experience&center=true&width=600&height=45&color=0A66C2&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Web+Apps;Laravel+%7C+React+%7C+CodeIgniter+%7C+API+Integration;Clean+Code+%7C+10%2B+Years+Experience&center=true&width=600&height=45&color=0A66C2&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 ---
