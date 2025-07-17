@@ -72,9 +72,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=touqeer16&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false" />
 </p>
 
----
-## 📊 Top Languages used per repo
-
 <p align="center">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f600234a74691f43a4be2cad7482d7151f064eb5a3ce2f17e979a38a1a57461/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d64616e79616c2d393033267468656d653d64726163756c61"><img src="https://camo.githubusercontent.com/9f600234a74691f43a4be2cad7482d7151f064eb5a3ce2f17e979a38a1a57461/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d64616e79616c2d393033267468656d653d64726163756c61" alt="" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danyal-903&amp;theme=dracula" style="max-width: 100%;"></a>
 </p>
+
+
+
