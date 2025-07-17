@@ -64,17 +64,17 @@
 
 ## 📊 Top Languages & GitHub Stats
 
-<!-- <p align="center" >
+<p align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=tokyonight" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&theme=tokyonight" />
 </p>
 
 <!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touqeer16&amp;theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&theme=tokyonight" />
 </p> -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touqeer16&amp;theme=dracula" />
+</p>
 
 
 <p align="center">
