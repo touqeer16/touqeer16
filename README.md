@@ -84,21 +84,23 @@
 ---
 
 ### 📊 Languages across All Repos
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F8F8&center=true&vCenter=true&width=700&height=50&lines=🎯+Top+Languages+Per+Repository" alt="Typing SVG" />
+</p>
 
-## 📊 GitHub Language Usage (Graphical View)
-
-> **Top programming languages used across public repositories by [@touqeer16](https://github.com/touqeer16)**
-
-### 🔹 Compact Bar Chart
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=compact&theme=radical&langs_count=8)](https://github.com/touqeer16)
-
-### 🔸 Pie Chart View
-
-[![Top Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=touqeer16&layout=pie&theme=tokyonight&langs_count=8)](https://github.com/touqeer16)
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/touqeer16/pms?label=pms&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/touqeer16/ecommerce?label=ecommerce&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/touqeer16/real-estate?label=real-estate&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/touqeer16/pos-system?label=pos-system&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/touqeer16/saas-platform?label=saas-platform&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/touqeer16/health-care?label=health-care&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/touqeer16/validation-system?label=validation-system&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/touqeer16/api-integration?label=api-integration&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/touqeer16/payment-gateway?label=payment-gateway&style=for-the-badge" />
+</p>
 
 ---
-
 
 ## 🧠 Top Languages by Repository
 
