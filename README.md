@@ -37,12 +37,11 @@
 - **Frontend:** React.js, Angular, Vue.js, HTML5, CSS3, JavaScript (ES6+)  
 - **Databases:** MySQL, PostgreSQL, NoSql  
 - **Tools & Platforms:** Git Agile & Scrum  
-- **Cybersecurity:** 
 - **Security Monitoring & Analysis:** SIEM, EDR/XDR, NDR
 - **Identity & Access Management:** IAM, PAM
-                     Incident Handling: Reporting, response, error logging, vulnerability assessments
-                     Cybersecurity Practices: Penetration testing, secure coding, data loss prevention
-                     Reporting & Analytics: Power BI Reporting, Risk & Threat Analysis
+- **Incident Handling:** Reporting, response, error logging, vulnerability assessments
+- **Cybersecurity Practices:** Penetration testing, secure coding, data loss prevention
+- **Reporting & Analytics:** Power BI Reporting, Risk & Threat Analysis
 - **Others:** API Integration, Payment Gateway, Testing (PHPUnit, Jest)
 
 ---
